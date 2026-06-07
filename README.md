@@ -1,11 +1,10 @@
 # Proyek Klasifikasi Gambar: Buah
 
-Repositori ini merupakan *submission* untuk kelas Machine Learning / Deep Learning di Dicoding. Proyek ini bertujuan untuk membangun model jaringan saraf tiruan (Convolutional Neural Network) yang mampu mengklasifikasikan 260 jenis buah yang berbeda berdasarkan gambar.
+Proyek ini bertujuan untuk membangun model jaringan saraf tiruan (Convolutional Neural Network) yang mampu mengklasifikasikan 260 jenis buah yang berbeda berdasarkan gambar.
 
 ## Informasi Penulis
 * **Nama:** Annisa Yusri Nur Rochmah
 * **Email:** annisayusri59@gmail.com
-* **ID Dicoding:** yusriannisa22
 
 ---
 
